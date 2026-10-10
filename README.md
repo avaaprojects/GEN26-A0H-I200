@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I200
 ### Team Details
-#### **Team Name** <<AXIOM>> <br/>
+#### **Team Name** AXIOM<br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender    |    🏫 Department / Programme   |   Hostel    |
 |:---------------:|:------------------------|:----------------------:|:----------------:|:-------------------------------:|:-----------:|
